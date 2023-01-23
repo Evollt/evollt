@@ -19,4 +19,4 @@ I'm on a chill
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=4F7D83)](https://t.me/evollt)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evollt&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evollt&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
